@@ -1,4 +1,4 @@
-print("Hello world")
+
 
 def print_greetings(name):
     print("Happy Birthday {}".format(name))
